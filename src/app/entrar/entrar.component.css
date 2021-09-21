@@ -1,17 +1,14 @@
 #img-backg{
-    background-repeat: no-repeatkground-seamless-looping-concept-an;
     background-image: url("https://i.imgur.com/M1dHWw3.jpg");
     height: 100vh;
-    background-position: 0px;
-    background-repeat: no-repeat;
-    background-color: rgb(0, 0, 0); 
+    background-size: cover; 
 }
 
 .box{
     position: absolute;
     background-color: rgba(42, 39, 39, 0.746);
     top: 51%; 
-    left: 72%; 
+    left: 50%; 
     transform: translate(-50%,-50%); 
     border-radius: 16px;
     padding: 30px; 
