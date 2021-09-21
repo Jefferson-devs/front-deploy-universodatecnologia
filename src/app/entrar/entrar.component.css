@@ -1,0 +1,25 @@
+#img-backg{
+    background-repeat: no-repeatkground-seamless-looping-concept-an;
+    background-image: url("https://media.giphy.com/media/hqfSAuuC95wQaoU3MF/giphy-downsized-large.gif");
+    height: 100vh;
+    background-position: 0px;
+    background-repeat: no-repeat;
+    background-color: rgb(0, 0, 0); 
+}
+
+.box{
+    position: absolute;
+    background-color: rgba(42, 39, 39, 0.746);
+    top: 51%; 
+    left: 72%; 
+    transform: translate(-50%,-50%); 
+    border-radius: 16px;
+    padding: 30px; 
+    width: 350px;
+    height: 435px;
+}
+
+label {
+    color:rgb(255, 255, 255);
+}
+

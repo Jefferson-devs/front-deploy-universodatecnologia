@@ -1,0 +1,24 @@
+.fd-54{
+    font-size: 54pt;
+}
+.fd-18{
+    font-size: 18pt;
+}
+
+.card-columns{
+    display:inline;
+    border-radius: 20%;
+}
+
+.card{
+    border-radius: 30px;
+    padding: 0;
+}
+
+.img-inicio{
+    left: 20px;
+}
+
+.fs-33{
+    font-size: 32pt;
+}

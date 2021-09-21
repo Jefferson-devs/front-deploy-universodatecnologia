@@ -1,0 +1,50 @@
+.img-backg{
+    background-image: url("https://www.bbaterias.com.br/wp-content/uploads/2019/04/homem-mexendo-no-notebook2.jpg");
+    background-size:100%;
+    bottom: 0;
+    color: black;
+    left: 0;
+    overflow: auto;
+    padding: 3em;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 0;
+}
+
+.box{
+    position: absolute;
+    background-color: rgba(255, 255, 255, 0.952);
+    top: 3%;
+    border-radius: 16px;
+    justify-content: center;
+    width: 430px;
+    height: 615px;
+}
+
+.alt-box{
+    font-size: 16px;
+    
+}
+
+input{
+   width: 80%;
+   display: flex;
+   text-align: center;
+   margin-left: 50px;
+   margin-right: 50px;
+}
+
+button{
+    width: 80px;
+    height:32px;
+    padding: 4px;
+    justify-content: center;
+}
+
+alt-cadastro{
+    font-size: 100px;
+}
+
+
+
