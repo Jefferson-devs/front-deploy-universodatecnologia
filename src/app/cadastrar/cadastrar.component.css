@@ -14,12 +14,12 @@
 
 .box{
     position: absolute;
-    background-color: rgba(255, 255, 255, 0.952);
-    top: 3%;
+    background-color: rgba(58, 53, 53, 0.781);
+    top: 2%;
     border-radius: 16px;
     justify-content: center;
     width: 430px;
-    height: 615px;
+    height: 627px;
 }
 
 .alt-box{
