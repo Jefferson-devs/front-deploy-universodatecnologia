@@ -7,7 +7,7 @@
 .box{
     position: absolute;
     background-color: rgba(42, 39, 39, 0.746);
-    top: 51%; 
+    top: 50%; 
     left: 50%; 
     transform: translate(-50%,-50%); 
     border-radius: 16px;
